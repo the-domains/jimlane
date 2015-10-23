@@ -1,0 +1,23 @@
+name: jimlane
+favicon: null
+layout_spectrum: 0.6126719277817756
+typography_spectrum: 0.8950417106971145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6945258039049804
+  lightness: 0.5807671316433698
+  saturation: 0.10216447594575584
+  rhythmicContrast: 0.8420724929310381
+purpose: []
